@@ -1,1 +1,1 @@
-# My flask app is awesome!!! 
+# You liar the app sucks! 
